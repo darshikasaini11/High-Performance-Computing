@@ -1,3 +1,4 @@
+![Screenshot (1)](https://github.com/user-attachments/assets/700be522-f4e2-4b25-85c7-9b85196a318b)
 HPC Power Consumption Reduction and Monitoring
 This project demonstrates how machine learning can be applied to reduce and monitor power consumption in High-Performance Computing (HPC) environments, such as supercomputers. The goal is to predict power consumption based on system parameters like CPU, GPU, and RAM usage, and dynamically adjust system resources to optimize energy usage.
 
